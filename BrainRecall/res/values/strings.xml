@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Brain Recall</string>
+    <string name="title">Brain Recall</string>
+    <string name="subtitle">Recall Test Your Brain Memory (developed by @Bennet_ZA twitter) </string>
+    <string name="description">Observe the sequence of GREEN button presses, then  REPEAT it CORRECTLY</string>
+    <string name="play_game">Play</string>
+    <string name="high_scores">High Scores</string>
+    <string name="clear_scores">High Scores</string>
+    <string name="start_game">Start</string>
+    <string name="get_ready">WAIT AND CONCENTRATE </string>
+    <string name="press_start">PRESS START!!!</string>
+    <string name="player_turn">Your Turn - Repeat the Pattern</string>
+    <string name="game_over">GAME OVER!!! YOU CAN DO BETTER :)</string>
+
+</resources>
