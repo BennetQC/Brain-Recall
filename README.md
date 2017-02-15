@@ -4,18 +4,21 @@ Download Brain Recall on GooglePlay Store https://goo.gl/mCR8SR
 
 This my first open source project
 
-* Description 
+# Description
+
+
 Brain Recall is a very addictive, puzzle Memory game!
 Challenge Your MEMORY DAILY.
 This is a great GAME to exercise your memory!
 
 	
-Features 
-• High scores track
-• Better Performance
-• Increasing level difficulty
-• Cool Animations on sound Clicks
-• Optimized for mobiles and tablets
+# Features 
+
+* High scores track
+* Better Performance
+* Increasing level difficulty
+* Cool Animations on sound Clicks
+* Optimized for mobiles and tablets
 
 
 # Usage 
